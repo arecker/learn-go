@@ -2,4 +2,4 @@
 
 Just a dude trying to learn GO
 
-Left off [here](https://gobyexample.com/closing-channels)
+Left off [here](https://gobyexample.com/worker-pools/)
